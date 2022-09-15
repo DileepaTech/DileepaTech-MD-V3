@@ -28,11 +28,7 @@
 			"required": true,
 			"value": "."
 		},
-		"SESSION_ID": {
-			"description": "session id",
-			"required": true,
-			"value": ""
-		},
+		
 		"STICKER_PACKNAME": {
 			"description": "sticker pack info",
 			"required": true,
