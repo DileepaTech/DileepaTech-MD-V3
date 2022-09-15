@@ -1,11 +1,11 @@
 {
-	"name": "Bottus",
+	"name": "DileepaTech Md-V3",
 	"description": " Whatsapp bot.",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/lyfe0010/whatsapp-bot-md",
+	"repository": "https://github.com/DileepaTech/DileepaTech-Md-V3",
 	"stack": "container",
 	"env": {
 		"ALWAYS_ONLINE": {
@@ -36,7 +36,7 @@
 		"STICKER_PACKNAME": {
 			"description": "sticker pack info",
 			"required": true,
-			"value": "❤️,LyFE"
+			"value": "❤️,DileepaTech Md-V3"
 		},
 		"HEROKU_APP_NAME": {
 			"description": "Heroku app name, same as above entered",
